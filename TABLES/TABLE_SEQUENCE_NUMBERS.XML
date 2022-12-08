@@ -1,0 +1,8 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Component_Tables documentName="Component Tables"/><Logical_Views documentName="Logical Views"/><Tables documentName="Tables">
+<T_TABLE TABLE_NAME="TABLE_SEQUENCE_NUMBERS" TABLE_SHORT="TASEQN" OBJECT_NAME="Sequence&#x20;Number" OBJECT_NAME_PLURAL="Sequence&#x20;Numbers" KEYHIDDEN="" STATIC_TABLE="N" INIT_NR_OF_ROWS="" NEXT_NR_OF_ROWS="" T_SUBT_SUPERTYPE="" T_SUBT_SEPARATE_TABLE="Y" DELETE_SUPER_ON_DELETE="N" T_LOGICAL_VIEW="N" T_COMPONENT_TABLE="N" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" INTERFACE_SOURCE="" CREATED_BY="VCDEMO1" CREATED_ON="2022-12-08T12:54:18" UNDER_VC="N" DELIVERABLE="N"/>
+</Tables><Columns documentName="Columns">
+<T_COLUMN TABLE_NAME="TABLE_SEQUENCE_NUMBERS" COLUMN_NAME="SEQNO" DOMAIN_NAME="TWI_INT_8" PROMPT="" KEYORDER="1" MANDATORY="N" INPUT_ALLOWED="Y" UPDATABLE="Y" QUERY_ALLOWED="Y" COLUMN_TYPE="D" DISPLAYED="Y" DEF_VALUE="1" SEQNO="2" LOFSEQNO="" PERC_FULL="" PERC_NULL="" HELP_TEXT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" UNDER_VC="Y"/>
+<T_COLUMN TABLE_NAME="TABLE_SEQUENCE_NUMBERS" COLUMN_NAME="TABLE_NAME" DOMAIN_NAME="TWI_CHAR_30_UP" PROMPT="" KEYORDER="1" MANDATORY="Y" INPUT_ALLOWED="Y" UPDATABLE="Y" QUERY_ALLOWED="Y" COLUMN_TYPE="" DISPLAYED="Y" DEF_VALUE="" SEQNO="1" LOFSEQNO="" PERC_FULL="" PERC_NULL="0" HELP_TEXT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" UNDER_VC="Y"/>
+</Columns><Columns_Comments documentName="Columns Comments"/><Indexes documentName="Indexes"/><Index_Comments documentName="Index Comments"/><Index_Columns documentName="Index Columns"/><Table_Comments documentName="Table Comments"/><Table_Help documentName="Table Help"/></MultiImport>
