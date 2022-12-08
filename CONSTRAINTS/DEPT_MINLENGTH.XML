@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Constraints documentName="Constraints">
+<T_CONSTRAINT CONSTRAINT_NAME="DEPT_MINLENGTH" ACTIVE="Y" MESS_TEXT="The&#x20;name&#x20;of&#x20;the&#x20;department&#x20;must&#x20;be&#x20;at&#x20;least&#x20;6&#x20;long." DRIVING_TABLE="DEPARTMENT" FIRE_DEFERRED="N" TRANS_TABLE="" TRANS_ALIAS="" ON_INSERT="" ON_DELETE="" ON_UPDATE="" CONSTRTXT="select&#x9;&apos;&apos;&#xD;&#xA;from&#x9;department&#xD;&#xA;where&#x9;length(name)&#x20;&lt;&#x20;6" HELP_TOPIC="" CREATED_BY="VCDEMO1" CREATED_ON="2022-12-08T14:01:16"/>
+</Constraints><Constraint_Comments documentName="Constraint Comments"/></MultiImport>
