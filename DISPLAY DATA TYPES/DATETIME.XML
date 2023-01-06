@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Display_Data_Types documentName="Display Data Types">
+<T_DISPLAY_DATATYPE DISPLAY_DATATYPE="DATETIME" WIDGETCLASS="Column" VALID_ON="Windows,&#x20;Forms"/>
+</Display_Data_Types></MultiImport>
