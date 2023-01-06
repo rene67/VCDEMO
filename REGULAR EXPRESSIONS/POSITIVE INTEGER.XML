@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Regular_Expressions documentName="Regular Expressions">
-<T_REGEXP NAME="POSITIVE&#x20;INTEGER" REGEXP="^\d+$" DESCRIPTION="Positive&#x20;integer&#x20;validation" REGEXP_SAMPLE="1234" TEST_RESULT=""/>
-</Regular_Expressions></MultiImport>

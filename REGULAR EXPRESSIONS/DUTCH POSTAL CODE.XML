@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Regular_Expressions documentName="Regular Expressions">
-<T_REGEXP NAME="DUTCH&#x20;POSTAL&#x20;CODE" REGEXP="^[1-9][0-9]{3}\s?[a-zA-Z]{2}$" DESCRIPTION="Validates&#x20;Dutch&#x20;Postal&#x20;Codes." REGEXP_SAMPLE="3743&#x20;KJ" TEST_RESULT=""/>
-</Regular_Expressions></MultiImport>

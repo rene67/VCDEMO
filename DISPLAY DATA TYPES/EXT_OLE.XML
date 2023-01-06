@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Display_Data_Types documentName="Display Data Types">
-<T_DISPLAY_DATATYPE DISPLAY_DATATYPE="EXT_OLE" WIDGETCLASS="OleColumn" VALID_ON="Windows"/>
-</Display_Data_Types></MultiImport>

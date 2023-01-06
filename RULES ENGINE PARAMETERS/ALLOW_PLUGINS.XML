@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Rules_Engine_Parameters documentName="Rules Engine Parameters">
-<T_RE_PARAM NAME="ALLOW_PLUGINS" SETTING="True" DESCRIPTION="Specifies&#x20;if&#x20;this&#x20;application&#x20;allows&#x20;plugins&#x20;to&#x20;be&#x20;added&#x20;to&#x20;the&#x20;application."/>
-</Rules_Engine_Parameters></MultiImport>

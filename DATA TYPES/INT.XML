@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Data_Types documentName="Data Types">
-<T_DATATYPE DATATYPE="INT" VALID_ON="Oledb"/>
-</Data_Types></MultiImport>

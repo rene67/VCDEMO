@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Regular_Expressions documentName="Regular Expressions">
-<T_REGEXP NAME="DUTCH&#x20;GIROACCOUNT" REGEXP="^[0-9]{1,7}$" DESCRIPTION="Dutch&#x20;giro&#x20;account&#x20;number&#x20;validation" REGEXP_SAMPLE="" TEST_RESULT=""/>
-</Regular_Expressions></MultiImport>
