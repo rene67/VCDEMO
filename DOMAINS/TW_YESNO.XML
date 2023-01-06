@@ -1,8 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Domains documentName="Domains">
-<T_DOMAIN DOMAIN_NAME="TW_YESNO" SUPER_DOMAIN="" DATATYPE="VARCHAR2" TOTAL_LENGTH="1" LENGTH_AFTER_PERIOD="" F_DATATYPE="CHECK" F_TOTAL_LENGTH="1" F_LENGTH_AFTER_PERIOD="" DISPLAY_LENGTH="" UPPERCASE="Y" FIXED_LENGTH="Y" IS_SEQNO="N" DEF_VALUE="N" RANGE_LOW="" RANGE_HIGH="" HELP_TEXT="" IOFORMAT="" DBFORMAT="" DESCR="Domain&#x20;is&#x20;used&#x20;by&#x20;USoft&#x20;Production." PERC_FULL="100" CREATED_BY="VCDEMO1" CREATED_ON="2022-12-08T12:54:17" SEQNO_COMPONENT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" REGEXP=""/>
-</Domains><Domain_Comments documentName="Domain Comments"/><Alternative_Input_Formats documentName="Alternative Input Formats"/><Domain_Constraints documentName="Domain Constraints"/><Domain_Constraint_Comments documentName="Domain Constraint Comments"/><Domain_Values documentName="Domain Values">
-<T_DOMAIN_ENUM DOMAIN_NAME="TW_YESNO" VALUE="N" SEQNO="1" PROMPT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y"/>
-<T_DOMAIN_ENUM DOMAIN_NAME="TW_YESNO" VALUE="Y" SEQNO="2" PROMPT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y"/>
-</Domain_Values><Sequence_Definitions documentName="Sequence Definitions"/></MultiImport>
