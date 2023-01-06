@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Regular_Expressions documentName="Regular Expressions">
+<T_REGEXP NAME="SENTENCE" REGEXP="^[a-zA-Z\-;:.,?!()&apos;&quot;\s]+$" DESCRIPTION="Letters&#x20;and&#x20;punctuation&#x20;only" REGEXP_SAMPLE="My&#x20;first&#x20;sentence.&#x20;Hello&#x20;world!" TEST_RESULT=""/>
+</Regular_Expressions></MultiImport>

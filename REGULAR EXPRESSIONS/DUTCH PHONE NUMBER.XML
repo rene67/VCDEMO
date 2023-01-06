@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Regular_Expressions documentName="Regular Expressions">
+<T_REGEXP NAME="DUTCH&#x20;PHONE&#x20;NUMBER" REGEXP="^((\+|00(\s|\s?\-\s?)?)31(\s|\s?\-\s?)?(\(0\)[\-\s]?)?|0)[1-9]((\s|\s?\-\s?)?[0-9]){8}$" DESCRIPTION="Validates&#x20;a&#x20;dutch&#x20;phone&#x20;number.&#x20;The&#x20;number&#x20;may&#x20;begin&#x20;with&#x20;0031,&#x20;+31,&#x20;or&#x20;nothing:&#xA;&#xA;06&#x20;54&#x20;32&#x20;23&#x20;45&#xA;+316&#x20;54&#x20;32&#x20;23&#x20;45&#xA;00316&#x20;54&#x20;32&#x20;23&#x20;45&#xA;&#xA;0229-56&#x20;78&#x20;90&#xA;0031229567890&#xA;+31229567890" REGEXP_SAMPLE="00316&#x20;54&#x20;32&#x20;23&#x20;45" TEST_RESULT=""/>
+</Regular_Expressions></MultiImport>

@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Roles documentName="Roles">
+<T_ROLE ROLE_NAME="ADMIN" DESCRIPTION="Default&#x20;role" DEF_TABLE_DELETE_PRIV="2" DEF_TABLE_INSERT_PRIV="2" DEF_TABLE_SELECT_PRIV="2" DEF_TABLE_UPDATE_PRIV="2" DEF_JOB_PRIV="2" DEF_RDMI_COMP_PRIV="2" CREATED_BY="VCDEMO1" CREATED_ON="2023-01-06T09:37:07"/>
+</Roles></MultiImport>

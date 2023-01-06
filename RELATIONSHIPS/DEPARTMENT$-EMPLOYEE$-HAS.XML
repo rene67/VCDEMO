@@ -1,0 +1,7 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Relationships documentName="Relationships">
+<T_REF_TABLES TARGET_TABLE="DEPARTMENT" SOURCE_TABLE="EMPLOYEE" REF_ROLE="HAS" CO_ROLE="of&#x20;a" ALIAS_TARGET="" REVERSE_MENU_LINE="Departments&#x20;has&#x20;Employees" MENU_LINE="Employees&#x20;of&#x20;a&#x20;Department" MANDATORY="N" FK_CHECKPARTIAL="Y" LOCK_ON_FOREIGN_KEY_CHECK="Y" UPDATABLE="Y" TARGET_TOTAL="N" MIN_NO_OF_CHILDREN="" MAX_NO_OF_CHILDREN="" LOOKUP_METHOD="T" DELETE_RULE="RES" UPDATE_RULE="RES" CREATED_BY="VCDEMO1" CREATED_ON="2023-01-06T09:57:37" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" REF_TYPE="REFERENCE"/>
+</Relationships><Relationship_Columns documentName="Relationship Columns">
+<T_REF_COLUMNS TARGET_TABLE="DEPARTMENT" SOURCE_TABLE="EMPLOYEE" REF_ROLE="HAS" TARGET_COLUMN="DEPT_ID" SOURCE_COLUMN="WORKS_IN_DEPT" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y"/>
+</Relationship_Columns><Relationship_Comments documentName="Relationship Comments"/></MultiImport>
