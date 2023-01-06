@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Constraints documentName="Constraints">
+<T_CONSTRAINT CONSTRAINT_NAME="DEPT_NOT_START_WITH_SALES" ACTIVE="Y" MESS_TEXT="Mag&#x20;niet&#x20;started&#x20;met&#x20;SALES" DRIVING_TABLE="DEPARTMENT" FIRE_DEFERRED="N" TRANS_TABLE="" TRANS_ALIAS="" ON_INSERT="" ON_DELETE="" ON_UPDATE="" CONSTRTXT="select&#x20;&apos;&apos;&#xD;&#xA;from&#x20;department&#xD;&#xA;where&#x20;name&#x20;like&#x20;&apos;SALES%&apos;" HELP_TOPIC="" CREATED_BY="VCDEMO2" CREATED_ON="2023-01-06T10:19:21"/>
+</Constraints><Constraint_Comments documentName="Constraint Comments"/></MultiImport>
