@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Data_Types documentName="Data Types">
-<T_DATATYPE DATATYPE="VARBINARY" VALID_ON="ODBC(1-255),&#x20;Oledb(1-255)"/>
-</Data_Types></MultiImport>

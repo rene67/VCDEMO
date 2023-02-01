@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Regular_Expressions documentName="Regular Expressions">
-<T_REGEXP NAME="WINDOWS&#x20;FILE&#x20;PATH" REGEXP="^(([a-zA-Z]{1}:|\\)(\\[^\\/&lt;&gt;:\|\*\?\&quot;]+)+\.[^\\/&lt;&gt;:\|]{3,4})$" DESCRIPTION="Validates&#x20;a&#x20;windows&#x20;file&#x20;path&#x20;allowing&#x20;for&#x20;both&#x20;UNC&#x20;and&#x20;Standard&#x20;windows&#x20;Drive&#x20;references.&#x20;File&#x20;allowed&#x20;to&#x20;have&#x20;an&#x20;extention&#x20;length&#x20;of&#x20;3&#x20;to&#x20;4&#x20;chars.&#xA;Will&#x20;fail&#x20;validation&#x20;on&#x20;improper&#x20;characters:&#x20;/\:*?&quot;&lt;&gt;" REGEXP_SAMPLE="C:\Temp\myfile.docx" TEST_RESULT=""/>
-</Regular_Expressions></MultiImport>

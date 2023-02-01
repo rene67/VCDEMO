@@ -1,8 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Component_Tables documentName="Component Tables"/><Logical_Views documentName="Logical Views"/><Tables documentName="Tables">
-<T_TABLE TABLE_NAME="T_EVENT" TABLE_SHORT="TEVENT" OBJECT_NAME="Event" OBJECT_NAME_PLURAL="Events" KEYHIDDEN="" STATIC_TABLE="N" INIT_NR_OF_ROWS="" NEXT_NR_OF_ROWS="" T_SUBT_SUPERTYPE="" T_SUBT_SEPARATE_TABLE="Y" DELETE_SUPER_ON_DELETE="N" T_LOGICAL_VIEW="N" T_COMPONENT_TABLE="N" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" INTERFACE_SOURCE="" CREATED_BY="VCDEMO1" CREATED_ON="2023-01-06T12:21:13" UNDER_VC="N" DELIVERABLE="N"/>
-</Tables><Columns documentName="Columns">
-<T_COLUMN TABLE_NAME="T_EVENT" COLUMN_NAME="EVENT" DOMAIN_NAME="TWI_CHAR_30_UP" PROMPT="Event" KEYORDER="1" MANDATORY="Y" INPUT_ALLOWED="Y" UPDATABLE="Y" QUERY_ALLOWED="Y" COLUMN_TYPE="D" DISPLAYED="Y" DEF_VALUE="" SEQNO="1" LOFSEQNO="" PERC_FULL="" PERC_NULL="0" HELP_TEXT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" UNDER_VC="Y"/>
-<T_COLUMN TABLE_NAME="T_EVENT" COLUMN_NAME="SESSION_ID" DOMAIN_NAME="TWI_CHAR_30_UP" PROMPT="Session&#x20;id" KEYORDER="1" MANDATORY="Y" INPUT_ALLOWED="Y" UPDATABLE="Y" QUERY_ALLOWED="Y" COLUMN_TYPE="D" DISPLAYED="Y" DEF_VALUE="" SEQNO="2" LOFSEQNO="" PERC_FULL="" PERC_NULL="0" HELP_TEXT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" UNDER_VC="Y"/>
-</Columns><Columns_Comments documentName="Columns Comments"/><Indexes documentName="Indexes"/><Index_Comments documentName="Index Comments"/><Index_Columns documentName="Index Columns"/><Table_Comments documentName="Table Comments"/><Table_Help documentName="Table Help"/></MultiImport>

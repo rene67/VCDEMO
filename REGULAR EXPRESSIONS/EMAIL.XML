@@ -1,5 +1,0 @@
-<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
-<MultiImport>
-<Regular_Expressions documentName="Regular Expressions">
-<T_REGEXP NAME="EMAIL" REGEXP=".+\@.+\..+" DESCRIPTION="Very&#x20;simple&#x20;email&#x20;validation.&#x20;It&#x20;checks&#x20;for&#x20;@&#x20;and&#x20;." REGEXP_SAMPLE="me@test.com" TEST_RESULT=""/>
-</Regular_Expressions></MultiImport>
