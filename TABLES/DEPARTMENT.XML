@@ -1,0 +1,8 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Component_Tables documentName="Component Tables"/><Logical_Views documentName="Logical Views"/><Tables documentName="Tables">
+<T_TABLE TABLE_NAME="DEPARTMENT" TABLE_SHORT="DEPT" OBJECT_NAME="Department" OBJECT_NAME_PLURAL="Departments" KEYHIDDEN="N" STATIC_TABLE="N" INIT_NR_OF_ROWS="1000" NEXT_NR_OF_ROWS="500" T_SUBT_SUPERTYPE="" T_SUBT_SEPARATE_TABLE="Y" DELETE_SUPER_ON_DELETE="N" T_LOGICAL_VIEW="N" T_COMPONENT_TABLE="N" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" INTERFACE_SOURCE="" CREATED_BY="VCDEMO1" CREATED_ON="2023-02-01T13:33:56" UNDER_VC="N" DELIVERABLE="N"/>
+</Tables><Columns documentName="Columns">
+<T_COLUMN TABLE_NAME="DEPARTMENT" COLUMN_NAME="ID" DOMAIN_NAME="ID" PROMPT="ID" KEYORDER="1" MANDATORY="Y" INPUT_ALLOWED="Y" UPDATABLE="Y" QUERY_ALLOWED="Y" COLUMN_TYPE="D" DISPLAYED="Y" DEF_VALUE="" SEQNO="1" LOFSEQNO="" PERC_FULL="50" PERC_NULL="0" HELP_TEXT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" UNDER_VC="Y"/>
+<T_COLUMN TABLE_NAME="DEPARTMENT" COLUMN_NAME="NAME" DOMAIN_NAME="TWI_CHAR_30_UP" PROMPT="Name" KEYORDER="N" MANDATORY="N" INPUT_ALLOWED="Y" UPDATABLE="Y" QUERY_ALLOWED="Y" COLUMN_TYPE="D" DISPLAYED="Y" DEF_VALUE="" SEQNO="2" LOFSEQNO="" PERC_FULL="" PERC_NULL="50" HELP_TEXT="" INTERFACE="N" MODULE="" INTERFACE_CORRECT="Y" UNDER_VC="Y"/>
+</Columns><Columns_Comments documentName="Columns Comments"/><Indexes documentName="Indexes"/><Index_Comments documentName="Index Comments"/><Index_Columns documentName="Index Columns"/><Table_Comments documentName="Table Comments"/><Table_Help documentName="Table Help"/></MultiImport>

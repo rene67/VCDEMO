@@ -1,0 +1,5 @@
+<?usoft-xml version="1.0" return-corrected-records="no" action="multi-tables-import"?>
+<MultiImport>
+<Regular_Expressions documentName="Regular Expressions">
+<T_REGEXP NAME="ALPHANUMERIC" REGEXP="^\w+$" DESCRIPTION="Letters,&#x20;numbers,&#x20;and&#x20;underscores&#x20;only" REGEXP_SAMPLE="TEST_ME" TEST_RESULT=""/>
+</Regular_Expressions></MultiImport>
